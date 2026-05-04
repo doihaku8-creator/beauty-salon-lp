@@ -22,3 +22,8 @@ python3 -m http.server 8080
 
 - `index.html` から `styles.css` と `script.js` を相対パスで参照しているため、
   GitHub Pages でも追加のパス修正なしで表示できます。
+
+## main取り込みと競合解消について
+
+- `index.html` と `styles.css` は、公開中LPの構造を維持したまま、今回の改善（FVビジュアル、LINE予約導線統一、モバイル最適化、余白調整）を反映済みです。
+- 競合が発生した場合は、上記2ファイルを優先して採用してください（`script.js` は既存動作を維持）。

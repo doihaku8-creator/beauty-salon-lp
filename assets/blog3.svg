@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="450" viewBox="0 0 700 450">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f2e6d9"/><stop offset="100%" stop-color="#c9ab86"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="url(#g)"/>
+<rect x="56" y="54" width="588" height="342" fill="#ffffff88" stroke="#b58b4e"/>
+<text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="35" fill="#6b4f2a" font-family="serif">BLOG 3</text>
+</svg>
